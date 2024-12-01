@@ -2,9 +2,11 @@
 
 ## This is my repo for advent of code 2024. I don't know how far I'll go with it, but I hope to work on it every day. I will be using pythonfor all puzzles.
 
+## Star Count: ⭐⭐
+
 ### Day - 1
-- [Part 1](https://github.com/frustratedcat/AoC-2024/blob/main/day-1/day-1-part-1.py): *
-- [Part 2](https://github.com/frustratedcat/AoC-2024/blob/main/day-1/day-1-part-2.py): *
+- [Part 1](https://github.com/frustratedcat/AoC-2024/blob/main/day-1/day-1-part-1.py) ⭐
+- [Part 2](https://github.com/frustratedcat/AoC-2024/blob/main/day-1/day-1-part-2.py) ⭐
 ### Day - 2 
 ### Day - 3
 ### Day - 4
