@@ -1,4 +1,3 @@
-from re import split
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
@@ -30,9 +29,6 @@ for i in range(len(split_join)):
         split_join[i][j] = int(split_join[i][j])
 
 evaluate = 0
-
-#res = all(i < j for i, j in zip(split_join[1], split_join[1][1:]))
-#print(res)
 
 for i in range(len(split_join)):
     ascending = all(j < k for j, k in zip(split_join[i], split_join[i][1:]))
